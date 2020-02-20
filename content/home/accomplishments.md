@@ -3,7 +3,7 @@ active = true
 date_format = "Jan 2006"
 headless = true
 subtitle = ""
-title = "Oprávnění"
+title = "opravneni"
 weight = 50
 widget = "accomplishments"
 [[item]]
